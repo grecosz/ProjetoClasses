@@ -39,12 +39,40 @@ namespace Diagrama_de_Classe
         { get { return nome; }  //retorna o valor armazenado em um atributo
           set { nome = value; } //armazena o valor no campo
         }
-         //
+        public int Idade
+        {
+          get { return idade; }
+          set { idade = value; }
+        }
+        public double Altura
+        {
+          get { return altura; }
+          set { Altura = value; }
+        }
+
+        public string Sexo
+        {
+          get { return sexo; }
+          set { sexo = value.ToUpper() == "M" ? "MASCULINO" : "FEMININO"; }
+
+        }
+
+        // Método para calcular o peso ideal de uma pessoa
+        public double calcularPesoIdeal()
+        {
+            if (sexo.Equals("MASCULINO"))
+                return (72.7 * altura) - 58;
+            else
+                return (62.1 * altura) - 44.7;
+
+        }
+
 
         //Método que retorna uma string contendo as informações da pessoa
         public override string ToString()
         {
-            return(String.Format("Nome: {0}", nome));
+            return(String.Format("Nome: {0}\n Idade: {1} \n Altura:{2} \n Sexo: {3} \n",
+                                    nome, Idade, Altura, sexo));
         }
     }
 }

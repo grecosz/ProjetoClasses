@@ -28,3 +28,4 @@ namespace Diagrama_de_Classe
         }
     }
 }
+// finalizamos as classes
