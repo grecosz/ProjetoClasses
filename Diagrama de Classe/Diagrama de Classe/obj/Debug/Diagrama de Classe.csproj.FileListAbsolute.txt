@@ -6,3 +6,11 @@ C:\Users\2JDmtec\Desktop\Sophia e Mariana\Diagrama de Classe\Diagrama de Classe\
 C:\Users\2JDmtec\Desktop\Sophia e Mariana\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.csproj.CoreCompileInputs.cache
 C:\Users\2JDmtec\Desktop\Sophia e Mariana\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.exe
 C:\Users\2JDmtec\Desktop\Sophia e Mariana\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.pdb
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.exe
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\obj\Debug\Diagrama de Classe.pdb
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\bin\Debug\Diagrama de Classe.exe.config
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\bin\Debug\Diagrama de Classe.exe
+C:\Users\2jdmtec\Source\Repos\ProjetoClasses\Diagrama de Classe\Diagrama de Classe\bin\Debug\Diagrama de Classe.pdb

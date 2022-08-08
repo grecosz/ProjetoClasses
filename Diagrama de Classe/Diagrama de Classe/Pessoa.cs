@@ -11,7 +11,7 @@ namespace Diagrama_de_Classe
         // Atributo de Classe
         private string nome;
         private int idade = 0;
-        private double= altura;
+        private double altura;
         private string sexo;
 
         //Construtor sem parametros
